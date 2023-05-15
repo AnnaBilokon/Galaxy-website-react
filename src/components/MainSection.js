@@ -3,6 +3,7 @@ import '../App.css';
 import { Button } from './Button';
 import './MainSection.css';
 import video from '../video/moon-video.mp4';
+import { ButtonReadArticles } from './ButtonReadArticles';
 
 function MainSection() {
   return (
@@ -14,8 +15,8 @@ function MainSection() {
 	<div className='main-btns'>
 		<Button className='btns' buttonStyle='btn--outline'
 		buttonSize='btn--large'>GET STARTED</Button>
-	<Button className='btns' buttonStyle='btn--primery'
-		buttonSize='btn--large'> <i className='far=fa-play-circle'/> WATCH TRAILER </Button>
+	<ButtonReadArticles className='btns' buttonStyle='btn--primery'
+		buttonSize='btn--large'> <i className='far=fa-play-circle'/> READ ARTICLES </ButtonReadArticles>
 	</div>
 	  	</div>
   )
