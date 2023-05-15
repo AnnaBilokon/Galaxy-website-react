@@ -14,19 +14,19 @@ function Cards() {
 					src='images/moon-1.jpg'
 					text='Why can we sometimes see the moon in the daytime?'
 					label = 'article'
-					path='/services'
+					path='/articles'
 					/>
 					<CardItem
 					src='images/moon-2.jpg'
 					text='Will Earth ever lose its moon?'
-					label = 'article'
-					path='/services'
+					label = 'news'
+					path='/news'
 					/>
 					<CardItem
 					src='images/moon-3.jpg'
 					text='Who owns the moon?'
 					label = 'article'
-					path='/services'
+					path='/articles'
 					/>
 				
 				</ul>
