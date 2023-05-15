@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './MainSection.css';
-import video from '../video/galaxy-video-2.mp4';
+import video from '../video/moon-video.mp4';
 
 function MainSection() {
   return (
