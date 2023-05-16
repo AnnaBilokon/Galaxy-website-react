@@ -1,6 +1,5 @@
 {
   "name": "galaxy-website",
-  "homepage": "https://annabilokon.github.io/Galaxy-website-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
